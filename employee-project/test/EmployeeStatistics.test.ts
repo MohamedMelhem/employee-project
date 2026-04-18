@@ -59,5 +59,4 @@ test("HATAR ERTEK - nagyon nagy szam", () => {
     expect(stat.ennyienKeresnekTobbet(9999999)).toBe(0);
 });
 
-
 });
